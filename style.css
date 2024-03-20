@@ -1,4 +1,12 @@
 body{
     background-color: beige;
-color: rgb(177, 125, 58);
+color: rgb(218, 161, 88);
+line-height: 2.0;
+
+
+}
+
+h1{
+    border: double;
+text-align: center;
 }
