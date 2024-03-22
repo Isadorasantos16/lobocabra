@@ -1,17 +1,21 @@
-body{
+body {
     background-color: rgb(220, 245, 220);
-color: rgb(72, 128, 26);
-line-height: 2.0;
+    color: rgb(72, 128, 26);
+    line-height: 2.0;
 
 
 }
 
-h1{
+h1 {
     border: double;
-text-align: center;
+    text-align: center;
 }
 
-p{
+p {
     text-align: center;
-font-style: Arial;
+    font-style: Arial;
+}
+
+a {
+    color: rgb(72, 128, 26);
 }
